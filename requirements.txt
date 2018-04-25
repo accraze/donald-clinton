@@ -1,0 +1,6 @@
+numpy
+Flask
+tensorflow
+gunicorn
+python-twitter
+six

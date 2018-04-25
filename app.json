@@ -1,0 +1,7 @@
+{
+    "name": "donald-clinton",
+    "buildpacks": [
+        { "url": "https://github.com/heroku/heroku-buildpack-python" }
+    ]
+}
+
