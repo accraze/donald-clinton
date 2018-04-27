@@ -3,6 +3,8 @@
 A Deep Learning Twitter bot mash-up trained on Donald Trump and Hilary Clinton's US
 Presidential debate transcript.
 
+<img src="imgs/donaldclinton.png"/>
+
 This is a flask application which serves a pre-trained TensorFlow model.
 
 # Instructions
